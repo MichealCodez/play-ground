@@ -5,7 +5,7 @@ function H1(props) {
 }
 
 export default function HomePage() {
-	const classes = ['J3', 'S1', 'S2'];
+	const classes = ['J3', 'S1', 'J3'];
 	function doClick() {
 	setN(n + 1)
 	console.log(`Yoo!, I was Clicked ${n}`);}
